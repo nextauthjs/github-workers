@@ -2,7 +2,7 @@
 FROM ubuntu:latest
 
 # We should probably update this periodically
-ARG RUNNER_VERSION=2.276.1
+ARG RUNNER_VERSION=2.277.1
 
 ARG DEBIAN_FRONTEND=noninteractive
 
